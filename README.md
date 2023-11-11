@@ -4,7 +4,7 @@
 It is Day 11 and 12 of the 30 Days DuckDB Challenge! This section explores the realm of data visualization and dashboard creation using PowerBI. The primary objective of this task is to create compelling visualizations and an interactive dashboard based on two provided datasets from FIFA. The challenge also includes the incorporation of the DuckDB or Mother Duck logo on the dashboard as a symbol of participation in the 30 Days DuckDB Challenge.
 
 ## Datasets
-The datasets used for this task were pre-cleaned datasets from DuckDBSQL related to FIFA player attributes, ratings, and club information. [Fifa_21_RD1](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/Fifa_21_RD1.csv) and [Fifa_21_RD2](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/Fifa_21_RD2.csv). 
+The datasets used for this task were pre-cleaned datasets from DuckDBSQL, related to FIFA player attributes, ratings, and club information. [Fifa_21_RD1](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/Fifa_21_RD1.csv) and [Fifa_21_RD2](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/Fifa_21_RD2.csv). 
 ## Data Import
 Utilizing Power BI, the two pre-cleaned datasets were imported and verified for accuracy, mainly using CSV import procedures.
 ## Data Transformation and Joining
