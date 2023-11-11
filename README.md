@@ -19,7 +19,7 @@ Data cleaning and transformation processes were conducted to ensure data readine
 
 ### Question 1: Nationality Distribution
 - **Visualization Created:** A bar chart showcasing the diverse distribution of players' nationalities.
-Enhancements: Incorporated a slicer for users to filter and view player counts based on specific countries, offering an interactive way to explore individual nationalities.
+- **Enhancements:** Incorporated a slicer for users to filter and view player counts based on specific countries, offering an interactive way to explore individual nationalities.
 - **Drill-Through Integration:** Linked the bar chart to a table visualization in Question 4, facilitating a detailed breakdown of players within a particular country. This allows identification of players by their names, providing a comprehensive view of each nationality's player roster.
 ### Question 2: Age vs. Potential
 - **Visualization Developed:** A scatter plot examining the relationship between a player's "Age" and "POT" (potential).
