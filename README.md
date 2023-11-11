@@ -32,29 +32,24 @@ Integrated a trendline to visualize trends between age and potential.
 Generated an interactive pie chart displaying the distribution of player positions.
 Enabled interactivity for users to select specific player to view their associated roles. I also filtered the chart to show only top 3 positions
 
-**Task 4: Top Players by Overall Rating**
+**Question 4: Top Players by Overall Rating**
 
 Created a table listing the top players based on their "OVA" (overall rating) in descending order.
 Integrated functionality to allow users to filter and view top-rated players by specific clubs by using a slicer. I also enabled a drill through that allows the table connect to the scatter plot, enabling us to view individual player, their age and POT while taking note of their OVA.
 
-Each visual representing the questions above can be found [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202.pbip)
-
-IT can also be viewed as a pdf [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202%20pdf.pdf)
-
 **Interactive Dashboard**
-
 - Consolidated all visualizations from Tasks 1 to 4 into a single Power BI dashboard.
 - Incorporated slicers, filters, and drill-through actions to make the dashboard interactive.
-
 ![](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/fifa21%20powerbi%20analysis.png)
 ## Conclusion
-The successful completion of the Power BI visualization challenge provided valuable insights into the FIFA player datasets, emphasizing the significance of data visualization in extracting actionable insights from complex datasets.
+The successful completion of the Power BI visualization challenge provided valuable insights into the FIFA player datasets, emphasizing the significance of data visualization in extracting actionable insights from complex datasets. Each visual representing the questions above can be found as a powerbi file [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202.pbip)
+It can also be viewed as a pdf [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202%20pdf.pdf)
 ## Insights
-- Position Prevalence: The pie chart representing player positions indicates that the Centre-Back position is notably prevalent. This position is crucial in defensive play, indicating the significance of defensive roles in football strategy.
-- Top Player: The table displays Lionel Messi as the highest-rated player, highlighting his exceptional skill and performance within the dataset.
-- Top Clubs: By filtering the club using the slicer, the top 5 clubs based on player ratings (OVA) are identified. This sheds light on the clubs with the highest-rated players, potentially indicating the clubs excelling in player development and performance.
-- POT and Age Correlation: The scatter plot analysis of Potential (POT) against Age indicates zero correlation between these two variables. This suggests that as players' ages increase, there's no clear and consistent pattern regarding their potential ratings. It indicates that a player's age might not be a determining factor for their potential in the dataset analyzed.
-- Global Talent pool: The count of players by nationality shows a diverse representation from various countries, emphasizing the widespread global representation within FIFA. This signifies the international nature of the sport and the diverse talent pool involved in football.
+- **Position Prevalence:** The pie chart representing player positions indicates that the Centre-Back position is notably prevalent. This position is crucial in defensive play, indicating the significance of defensive roles in football strategy.
+- **Top Player:** The table displays Lionel Messi as the highest-rated player, highlighting his exceptional skill and performance within the dataset.
+- **Top Clubs:** By filtering the club using the slicer, the top 5 clubs based on player ratings (OVA) are identified. This sheds light on the clubs with the highest-rated players, potentially indicating the clubs excelling in player development and performance.
+- **POT and Age Correlation:** The scatter plot analysis of Potential (POT) against Age indicates zero correlation between these two variables. This suggests that as players' ages increase, there's no clear and consistent pattern regarding their potential ratings. It indicates that a player's age might not be a determining factor for their potential in the dataset analyzed.
+- **Global Talent pool:** The count of players by nationality shows a diverse representation from various countries, emphasizing the widespread global representation within FIFA. This signifies the international nature of the sport and the diverse talent pool involved in football.
   
 ## REFERENCE
 Image Title: Duckdb
