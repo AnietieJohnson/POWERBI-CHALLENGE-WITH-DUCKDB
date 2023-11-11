@@ -36,7 +36,7 @@ Data cleaning and transformation processes were conducted to ensure data readine
 - Incorporated slicers, filters, and drill-through actions to make the dashboard interactive.
 ![](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/fifa21%20powerbi%20analysis.png)
 ## Conclusion
-The successful completion of the Power BI visualization challenge provided valuable insights into the FIFA player datasets, emphasizing the significance of data visualization in extracting actionable insights from complex datasets. Each visual representing the questions above can be found as a powerbi file [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202.pbip)
+The successful completion of the Power BI visualization challenge provided valuable insights into the FIFA player datasets, emphasizing the significance of data visualization in extracting actionable insights from complex datasets. Each visual representing the questions above can be found as a powerbi file [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202.pbip) .
 It can also be viewed as a pdf [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202%20pdf.pdf)
 ## Insights
 - **Position Prevalence:** The pie chart representing player positions indicates that the Centre-Back position is notably prevalent. This position is crucial in defensive play, indicating the significance of defensive roles in football strategy.
