@@ -32,7 +32,7 @@ Data cleaning and transformation processes were conducted to ensure data readine
 - **Drill-Through Connection:** Enabled a drill-through feature linking the table to the scatter plot, offering a comprehensive view of individual player details such as their age, potential, and overall rating (OVA).
   
 **Interactive Dashboard**
-- Consolidated all visualizations from Tasks 1 to 4 into a single Power BI dashboard.
+- Consolidated all visuals from Tasks 1 to 4 into a single Power BI dashboard.
 - Incorporated slicers, filters, and drill-through actions to make the dashboard interactive.
 ![](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/fifa21%20powerbi%20analysis.png)
 ## Conclusion
