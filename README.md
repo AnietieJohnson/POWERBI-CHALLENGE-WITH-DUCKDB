@@ -14,7 +14,7 @@ Data cleaning and transformation processes were conducted to ensure data readine
 2. Loaded the files into PowerQuery Editor for cleaning: 
 - Corrected data types for each column
 - Renamed column headings for clarity and consistency
-- The two datasets were merged using a common column **Name**  using Left join.
+- The two datasets were merged ON a common column **"Name"**,  using Left join.
 ## Visualizations
 
 ### Question 1: Nationality Distribution
