@@ -34,6 +34,7 @@ Data cleaning and transformation processes were conducted to ensure data readine
 **Interactive Dashboard**
 - Consolidated all visuals from Tasks 1 to 4 into a single Power BI dashboard.
 - Incorporated slicers, filters, and drill-through actions to make the dashboard interactive.
+
 ![](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/fifa21%20powerbi%20analysis.png)
 ## Conclusion
 The successful completion of the Power BI visualization challenge provided valuable insights into the FIFA player datasets, emphasizing the significance of data visualization in extracting actionable insights from complex datasets. Each visual representing the questions above can be found as a powerbi file [here](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/duckdb%20challenge%20phase%202.pbip) .
