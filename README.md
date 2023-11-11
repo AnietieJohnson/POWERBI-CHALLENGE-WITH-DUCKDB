@@ -1,7 +1,7 @@
 # <p align="center" > PowerBI Visualization Challenge
 ![](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/R.png)
 ## Introduction
-It is Day 11 and 12 of the 30 Days DuckDB Challenge! This section explores the realm of data visualization and dashboard creation using Power BI. The primary objective of this task was to create compelling visualizations and an interactive dashboard based on two provided datasets from FIFA. The challenge also included the incorporation of the DuckDB or Mother Duck logo on the dashboard as a symbol of participation in the 30 Days DuckDB Challenge.
+It is Day 11 and 12 of the 30 Days DuckDB Challenge! This section explores the realm of data visualization and dashboard creation using Power BI. The primary objective of this task is to create compelling visualizations and an interactive dashboard based on two provided datasets from FIFA. The challenge also included the incorporation of the DuckDB or Mother Duck logo on the dashboard as a symbol of participation in the 30 Days DuckDB Challenge.
 
 ## Datasets
 The datasets used for this task were pre-cleaned datasets from DuckDBSQL related to FIFA player attributes, ratings, and club information. [Fifa_21_RD1](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/Fifa_21_RD1.csv) and [Fifa_21_RD2](https://github.com/AnietieJohnson/POWERBI-CHALLENGE-WITH-DUCKDB/blob/main/Fifa_21_RD2.csv). 
@@ -17,26 +17,20 @@ Data cleaning and transformation processes were conducted to ensure data readine
 - The two datasets were merged using a common column **Name**  using Left join.
 ## Visualizations
 
-**QUESTION 1: Nationality Distribution**
-
-A bar chart was created to show the distribution of players' nationalities.
-I added a slicer that allow users to filter and view number of players from specific countries based on nationality. I further added a drill through that links this bar chart to the table visual in question four, in this way we can see a break down of players in particular country and identify them by their names.
-
-**QUESTION 2: Age vs. Potential**
-
-I Developed a scatter plot to explore the relationship between a player's "Age" and "POT" (potential).
-Integrated a trendline to visualize trends between age and potential.
-
-**Question 3: Player Position Analysis**
-
-Generated an interactive pie chart displaying the distribution of player positions.
-Enabled interactivity for users to select specific player to view their associated roles. I also filtered the chart to show only top 3 positions
-
-**Question 4: Top Players by Overall Rating**
-
-Created a table listing the top players based on their "OVA" (overall rating) in descending order.
-Integrated functionality to allow users to filter and view top-rated players by specific clubs by using a slicer. I also enabled a drill through that allows the table connect to the scatter plot, enabling us to view individual player, their age and POT while taking note of their OVA.
-
+### Question 1: Nationality Distribution
+- **Visualization Created:** A bar chart showcasing the diverse distribution of players' nationalities.
+Enhancements: Incorporated a slicer for users to filter and view player counts based on specific countries, offering an interactive way to explore individual nationalities.
+- **Drill-Through Integration:** Linked the bar chart to a table visualization in Question 4, facilitating a detailed breakdown of players within a particular country. This allows identification of players by their names, providing a comprehensive view of each nationality's player roster.
+### Question 2: Age vs. Potential
+- **Visualization Developed:** A scatter plot examining the relationship between a player's "Age" and "POT" (potential).
+- **Trendline Inclusion:** Integrated a trendline into the scatter plot to visualize trends and patterns concerning age and potential, aiding in the understanding of any potential correlations or tendencies between these variables.
+### Question 3: Player Position Analysis
+- **Visualization Generated:** An interactive pie chart illustrating the distribution of player positions. I Enabled slicers for users to select specific players, thereby displaying their associated roles. Additionally, a filter was applied to the chart to focus on the top three positions, enhancing the clarity of the visualization.
+### Question 4: Top Players by Overall Rating
+- **Visualization Created:** A table displaying the top players based on their "OVA" (overall rating) in descending order.
+- **Club-Specific Filtering:** Integrated slicer enabling users to filter and view top-rated players associated with specific clubs 
+- **Drill-Through Connection:** Enabled a drill-through feature linking the table to the scatter plot, offering a comprehensive view of individual player details such as their age, potential, and overall rating (OVA).
+  
 **Interactive Dashboard**
 - Consolidated all visualizations from Tasks 1 to 4 into a single Power BI dashboard.
 - Incorporated slicers, filters, and drill-through actions to make the dashboard interactive.
